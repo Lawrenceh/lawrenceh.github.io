@@ -4,7 +4,7 @@ title:  "Regularization vs Overfitting Intuitions"
 author: gniliy
 categories: [ ml ]
 description: "Regularization vs Overfitting Intuitions"
-toc: true
+toc: false
 ---
 
 A few links to good, introductory talks regarding regularization, and bias-variance tradeoffs.
